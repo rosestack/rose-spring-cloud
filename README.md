@@ -1,4 +1,4 @@
-# Rose Spring Boot
+# Rose Spring Cloud
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/rosestack/rose-spring-cloud)
 [![Maven Build](https://github.com/rosestack/rose-spring-cloud/actions/workflows/maven-build.yml/badge.svg)](https://github.com/rosestack/rose-spring-cloud/actions/workflows/maven-build.yml)
