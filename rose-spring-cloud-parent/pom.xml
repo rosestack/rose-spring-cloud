@@ -19,7 +19,7 @@
 
     <properties>
         <rose-spring-boot.version>0.0.3-SNAPSHOT</rose-spring-boot.version>
-        <testcontainers.version>2.0.1</testcontainers.version>
+        <testcontainers.version>2.0.2</testcontainers.version>
     </properties>
 
     <dependencyManagement>
